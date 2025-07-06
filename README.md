@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arsalanthecoder" alt="arsalanthecoder" /></a> </p>
 
-- 🔭 I’m currently working on **🎬 Movie Recommender — ML + The Movie DB API 🎵 Personalized Audio Player — Custom music experience in Flutter**
+- 🔭 I’m currently working on **🎵 Personalized Audio Player — Custom music experience in Flutter**
 
 - 🌱 I’m currently learning **🔥 Advanced Flutter ⚡ Firebase ⚙️ ML/AI Deployments**
 
