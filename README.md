@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Arsalan</h1>
-<h3 align="center">Passionate Data Science, GenAI & AgenticAI, and Full Stack Flutter & ML/AI Developer crafting modern apps.</h3>
+<h3 align="center">💡 Passionate Full-Stack Flutter & AI/ML Developer | Hackathon Enthusiast | Open to Collaborate on Data Science & GenAI Projects 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arsalanthecoder&label=Profile%20views&color=0e75b6&style=flat" alt="arsalanthecoder" /> </p>
 
