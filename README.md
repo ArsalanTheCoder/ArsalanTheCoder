@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arsalanthecoder" alt="arsalanthecoder" /></a> </p>
 
-- 🔭 I’m currently working on **🎵 Personalized Audio Player — Custom music experience in Flutter**
+- 🔭 I’m currently working on ** Personalized & Modern Agentic And GenAI Apps **
 
-- 🌱 I’m currently learning **🔥 Advanced Flutter ⚡ Firebase ⚙️ ML/AI Deployments**
+- 🌱 I’m currently learning **🔥 Advance Data Science(Transformer Architecture) ⚡ AgenticAI ⚙️ And thier Deployments**
 
-- 🤝 Open To Collaborate: [💡 Open-source Flutter, AI & ML ideas](🔗 DM me your ideas!)
+- 🤝 Open To Collaborate: [💡 Open-source GenAI, AgenticAI, Flutter, AI & ML ideas](🔗 DM me your ideas!)
 
-- 🤝 I’m looking for help with **📈 Better ML models for mobile apps**
+- 🤝 I’m looking for help with **📈 Better Agents, ML models for mobile apps**
 
 - 🌍 Explore My Work: [https://github.com/ArsalanTheCoder](https://github.com/ArsalanTheCoder)
 
-- 💬 Ask me about **🛠️ Flutter • APIs • AI • Firebase • UI Polish**
+- 💬 Ask me about **🛠️ DataScience • GenAI • AgenticAI • Flutter • APIs • AI • Firebase • UI Polish**
 
 - 📫 How to reach me **kingarain7866@gmail.com**
 
