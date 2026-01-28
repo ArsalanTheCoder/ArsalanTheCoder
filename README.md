@@ -1,11 +1,3 @@
-<!-- =========================
-  README for Mohammad Arsalan
-  Modern, animated header + full-width layout
-  Copy-paste this entire file into your repo's README.md
-  (Images are hosted services commonly used in READMEs)
-========================= -->
-
-<!-- Animated SVG header (data URI) - modern gradient + animated lines -->
 <p align="center">
   <img
     alt="Arsalan — animated header"
