@@ -189,6 +189,6 @@
 <!-- FOOTER -->
 <!-- ===================== -->
 
-<p align="center" style="margin-top:16px; color:#666;">
+<!-- <p align="center" style="margin-top:16px; color:#666;">
   Built with ❤ • Flutter & React Native • AI/ML for mobile • Want a custom SVG or dark theme? Reply and I'll generate it.
-</p>
+</p> -->
