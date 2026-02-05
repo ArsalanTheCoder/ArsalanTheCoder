@@ -42,40 +42,9 @@
 
 <br/>
 
-<!-- ===================== -->
-<!-- 📊 FULL-WIDTH DASHBOARD (STATS + LANGS) -->
-<!-- ===================== -->
+<!-- ===================== --> <!-- 📊 FULL-WIDTH DASHBOARD (STATS + LANGS) --> <!-- ===================== --> <table align="center" width="100%" cellpadding="12" style="max-width:1200px; margin: 0 auto;"> <tr> <td align="center" width="50%" style="vertical-align: top;"> <!-- GitHub summary stats (stars, commits, PRs, issues) --> <img src="https://github-readme-stats.vercel.app/api?username=arsalanthecoder&show_icons=true&theme=default" alt="GitHub Stats" style="max-width:100%;" /> </td> <td align="center" width="50%" style="vertical-align: top;"> <!-- Most used languages --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsalanthecoder&layout=compact" alt="Top Languages" style="max-width:100%;" /> </td> </tr> </table> <p align="center" style="margin-top:8px;"> <!-- Contribution / streak summary (keeps the recruiter-friendly summary visible) --> <img src="https://github-readme-streak-stats.herokuapp.com/?user=arsalanthecoder&theme=default" alt="Streak Stats" /> </p> 
 
-<table align="center" width="100%" cellpadding="12" style="max-width:1200px; margin: 0 auto;">
-  <tr>
-    <td align="center" width="50%" style="vertical-align: top;">
-      <!-- GitHub summary stats (stars, commits, PRs, issues) -->
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=arsalanthecoder&show_icons=true&theme=default"
-        alt="GitHub Stats"
-        style="max-width:100%;"
-      />
-    </td>
-
-    <td align="center" width="50%" style="vertical-align: top;">
-      <!-- Most used languages -->
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsalanthecoder&layout=compact"
-        alt="Top Languages"
-        style="max-width:100%;"
-      />
-    </td>
-  </tr>
-</table>
-
-<p align="center" style="margin-top:8px;">
-  <!-- Contribution / streak summary -->
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=arsalanthecoder&theme=default"
-    alt="Streak Stats"
-  />
-</p>
-
+---
 
 <!-- ===================== -->
 <!-- 🚀 CURRENTLY BUILDING (CENTERED) -->
