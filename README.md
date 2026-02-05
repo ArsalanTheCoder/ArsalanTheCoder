@@ -41,7 +41,6 @@
   and leading engineering on <b>Insightify</b> — an AI-powered scam detection startup.
 </p>
 
----
 
 <!-- ===================== -->
 <!-- 📊 FULL-WIDTH DASHBOARD (STATS + LANGS) -->
@@ -56,7 +55,7 @@
         alt="GitHub Stats"
         style="max-width:100%;"
       />
-    </td>
+    </tr>
 
     <td align="center" width="50%" style="vertical-align: top;">
       <!-- Most used languages -->
