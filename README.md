@@ -55,7 +55,7 @@
         alt="GitHub Stats"
         style="max-width:100%;"
       />
-    </tr>
+    </td>
 
     <td align="center" width="50%" style="vertical-align: top;">
       <!-- Most used languages -->
