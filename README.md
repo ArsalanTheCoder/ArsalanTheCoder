@@ -61,7 +61,7 @@
     <td align="center" width="50%" style="vertical-align: top;">
       <!-- Most used languages -->
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsalanthecoder&layout=compact&cachebust=CACHEBUST_PLACEHOLDER"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsalanthecoder&layout=compact&cachebust=1739097600"
         alt="Top Languages"
         style="max-width:100%;"
       />
@@ -72,7 +72,7 @@
 <p align="center" style="margin-top:8px;">
   <!-- Contribution / streak summary -->
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=arsalanthecoder&theme=default&cachebust=CACHEBUST_PLACEHOLDER"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=arsalanthecoder&theme=default&cachebust=1739097600"
     alt="Streak Stats"
   />
 </p>
