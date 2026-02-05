@@ -53,7 +53,7 @@
     <td align="center" width="50%" style="vertical-align: top;">
       <!-- GitHub summary stats -->
       <img
-        src="https://github-readme-stats.vercel.app/api?username=arsalanthecoder&show_icons=true&theme=default&cachebust=CACHEBUST_PLACEHOLDER"
+        src="https://github-readme-stats.vercel.app/api?username=arsalanthecoder&show_icons=true&theme=default&cachebust=1739097600"
         alt="GitHub Stats"
         style="max-width:100%;"
       />
