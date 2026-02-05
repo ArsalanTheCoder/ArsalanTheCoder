@@ -29,7 +29,6 @@
   <img src="https://img.shields.io/badge/LeetCode-100%2B%20Solved-orange?style=flat&logo=leetcode" alt="LeetCode" />
 </p>
 
----
 
 <!-- ===================== -->
 <!-- 🧠 ABOUT (CENTERED) -->
